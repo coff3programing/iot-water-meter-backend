@@ -27,7 +27,7 @@ __clients__
 * client_password **Varchar (25)**
 * client_rol _*FK (role_id)*_
 
-<!-- Users -->
+> Users
 * client_phone **Varchar (15)**
 * client_address _*Fk (adress_id)*_
 * client_meters _*Fk (meters_id)*_
